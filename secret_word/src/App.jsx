@@ -80,7 +80,6 @@ function App() {
       ]);
       setGuesses((actualGuessed) => actualGuessed - 1);
     }
-
   };
 
   const clearLetterStates = () => {
